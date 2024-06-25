@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/stasfilippov307" target="_blank">Stanislav</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center"><a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76FF00&random=false&width=435&lines=Front-end+Developer" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Front-end+Developer" alt="Typing SVG" /></a></h2>
 
 - 🔭 I’m currently working on [the project](https://github.com/stasfilippov/Flashcards-project) is an interactive learning application based on the principle of flashcards
 
