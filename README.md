@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **kron888999@gmail.com**
 
+- ⚡ [Resume](https://drive.google.com/file/d/110CQquJfqfh6Acxu4FLCq1NufX6jaP5L/view?usp=sharing)
+
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/stasfilippov307" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
@@ -51,5 +53,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
